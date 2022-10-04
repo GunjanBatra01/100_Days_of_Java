@@ -1,18 +1,15 @@
-###Task: 
-Given an integer, n perform the following conditional actions:
+Task: Given an integer, n perform the following conditional actions:
 --> If n is odd, print Odd Number.
 --> If n is even and in the inclusive range of 1 to 5, print the range in which it belongs.
 --> If n is even and in the inclusive range of 6 to 20, print the range in which it belongs.
 --> If n is even and greater than 20, print "Number is greater than 20".
 Write code to print in which category the integer belongs.
 
-###Programming Language: Java
+Programming Language: Java
 
-### Input: 
-An integer, n
+Input: An integer, n
 
-###Output: 
-if(positive even number)
+Output: if(positive even number)
 	 ==> Even Number: n
 	    if(n in the inclusive range of 1 and 5) 
 	    	==> Number lies between 1 to 5
@@ -26,30 +23,30 @@ if(positive even number)
 		==> Invalid Input
 
 
-###Test Cases: 
-**Case 1:** n = 3
+Test Cases: 
+Case 1: n = 3
 	n is positive odd integer, so we print "Odd number: 3"
 
-**Case 2:** n = 2
+Case 2: n = 2
 	n is positive even integer, so we print "Even Number: 2" 
 	and (n=2 && n<5), so we print "Number lies between 1 to 5"
 
-**Case 3:** n = 12
+Case 3: n = 12
 	n is positive even integer, so we print "Even Number: 12" 
 	and (n>6 && n<20), so we print "Number lies between 6 to 20"
 
-**Case 4:** n = 24
+Case 4: n = 24
 	n is positive even integer, so we print "Even Number: 24"
 	and (n>20), so we print "Number is greater than 20"
 
-**Case 5:** n = -10
+Case 5: n = -10
 	So, we print "Invalid Input"
 
-**Case 6:** n = 0
+Case 6: n = 0
 	So, we print "Invalid Input"
 
 
-###Logic:
+Logic:
 Given an integer, n, we perform following actions:
 ==> If n is positive odd integer i.e. n is greater than 0 and on dividing n with 2 the remainder is non-zero, then it satisfies the else if statement mentioned on line 22. After entering else if statement, it will execute print statement "Odd Number: n".
 
