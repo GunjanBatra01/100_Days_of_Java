@@ -7,7 +7,6 @@ public class SwitchStatement {
         int a = sc.nextInt();    
          
         switch (a){ 
- 
         // when a is 1
         case 1: 
 
