@@ -1,0 +1,80 @@
+Task 1: Write a program to print number and it's square till 10.
+    
+Programming Language: Java
+
+Output: Numbers along with their square from 1 to 10.
+
+Logic:
+==> Initializing number with 1 as we have to start printing numbers with their squares from 1.
+==> while loop will get executed only till the number is equals to 10.
+==> Under while loop, the program will print the number and it's square using the operator *. After executing it for current number, program will increment number by one in each iteration of while loop.
+==> When number will be equal to 11, it will dissatisfy the while condition and will terminate the program there itself.
+
+===========================================================================================
+
+Task 2: Write a program to print table of a number entered by the user.
+
+Programming Language: Java
+
+Input: An integer, num
+
+Output: Table of user entered number.
+
+Test Cases: 
+
+Case 1: num = 2
+        while(i=1,2,...,10)
+            print --> (2 * i)
+            i is incremented
+
+Case 2: num = -2
+        while(i=1,2,...,10)
+            print --> (-2 * i)
+            i is incremented
+
+Case 3: num = 0
+        while(i=1,2,...,10)
+            print --> (0 * i = 0)
+            i is incremented
+
+Logic:
+==> Program is taking an integer from user which is stored in a variable named num on line 10.
+==> We are initializing i to 1 since we need to print the table of the number from 1 till 10.
+==> While loop will get executed till 'i' is 10, under which it will be displaying number, the value of i, and the value after the operation * is applied.
+
+===========================================================================================
+
+Task 3: Write a program to print sum of digits of the number entered by the user.
+
+Programming Language: Java
+
+Input: An integer, num
+
+Output: Let's say the number is xyz so,
+            if(xyz is positive) then the output will be (x+y+z).
+            else output will be "Invalid Input".
+
+Test Cases: 
+Case 1: num = 26
+        while(26 != 0) --> TRUE
+            rem = 26 % 10 = 6
+            sum = 0 + 6 = 6
+            num = 26/10 = 2
+        while(2 != 0) --> TRUE
+            rem = 2 % 10 = 2
+            sum = 6 + 2 = 8
+            num = 2/10 = 0
+        while(0 != 0) --> FALSE
+            TERMINATED with sum = 8
+
+Case 2: num = -26
+            print "Invalid Input"
+
+Logic:
+==> Initializing two variables rem i.e. remainder and sum with 0.
+==> Asking user for a number which will be stored in a variable named num.
+==> If statement is checking whether the number entered is positive or not, if TRUE i.e. if positive integer then, program will check for while condition.
+==> Else, it will print "Invalid Input".
+==> Here while loop is executing till the number becomes equal to 0.
+==> Rem variable will keep recording the unit digit of the number in sum variable and num variable will be updated with the digits remaining unit digit.
+ 
