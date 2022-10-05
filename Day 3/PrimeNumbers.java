@@ -10,7 +10,8 @@ public class PrimeNumbers{
         System.out.println("Enter the number upto which you want to know prime numbers: ");
         int upperlimit = sc.nextInt();
 
-        if(upperlimit>1){
+        if(upperlimit>1)
+        {
             for (i=1; i<=upperlimit; i++){ 		  	  
                 int counter=0; 	  
                 for(num=i; num>=1; num--){
