@@ -6,4 +6,6 @@
 
 **Day 3:** Implementing prime numbers in a user defined range using for loop.
 
-**Day 4:** Implementing problem using one of the control statement, while loop
+**Day 4:** Implementing problem using one of the control statement, while loop.
+
+**Day 5:** Implementing problem using do-while loop.
