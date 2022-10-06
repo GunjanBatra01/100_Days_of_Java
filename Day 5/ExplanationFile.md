@@ -1,4 +1,5 @@
-###Task: 
+### Task: 
+
 Build a basic calculator performing following actions on two user entered integer:
       (i) Addition
       (ii) Subtraction
@@ -6,15 +7,15 @@ Build a basic calculator performing following actions on two user entered intege
       (iv) Division
       using do-while loop.
 
-###Programming Language: Java
+### Programming Language: Java
 
-###Input: 
+### Input: 
 Two integer values, a and b
 
-###Output: 
+### Output: 
 Menu driven program that will ask user to enter the choice of operation on two user-entered operands.
 
-###Test Cases: 
+### Test Cases: 
 
 **Case 1:** if c = 'y'
         a = 10, b = 2
@@ -75,7 +76,7 @@ Menu driven program that will ask user to enter the choice of operation on two u
          print "Division of 2 and 10 is: 0"
 
 
-###Logic:
+### Logic:
 ==> On line 5, we have declared a character variable named c, which is taking input from user whether he wants to perform more opertions or not. It is used in while condition mentioned on line 33.
 ==> On line 6, we have declared three integer variables named a, b, and choice.
 ==> 'a' is acting as the first operand and 'b' is acting as the second operand.
