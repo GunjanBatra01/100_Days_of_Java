@@ -27,6 +27,7 @@ Write code to print in which category the integer belongs.
 
 
 ### Test Cases: 
+
 **Case 1:** n = 3
 	n is positive odd integer, so we print "Odd number: 3"
 
