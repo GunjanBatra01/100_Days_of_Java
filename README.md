@@ -11,3 +11,7 @@
 **Day 5:** Implementing problem using do-while loop.
 
 **Day 6:** Usage of break statement in for, while, and do-while loop.
+
+**Day 7:** Implementing problem using continue statement.
+
+**Day 8:** Objects and Classes basic problem.
