@@ -15,3 +15,5 @@
 **Day 7:** Implementing problem using continue statement.
 
 **Day 8:** Objects and Classes basic problem.
+
+**Day 9:** Objects and Classes basic problem including parameterized constructor.
