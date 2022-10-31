@@ -21,3 +21,11 @@
 **Day 10:** Default Constructor and Parameterized Constructor sample program.
 
 **Day 11:** Constructor Overloading
+
+**Day 12:** Static variables
+
+**Day 13:** Static methods
+
+**Day 14:** Practice Problem - 
+
+**Day 15:** Three usages of 'this' keyword.
