@@ -31,3 +31,5 @@
 **Day 15:** Three usages of 'this' keyword.
 
 **Day 16:** Another three usages of 'this' keyword.
+
+**Day 17:** Single Level Inheritance
