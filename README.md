@@ -33,3 +33,7 @@
 **Day 16:** Another three usages of 'this' keyword.
 
 **Day 17:** Single Level Inheritance
+
+**Day 18:** Multilevel Inheritance
+
+**Day 19:** Hierarchical Inheritance
