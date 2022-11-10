@@ -43,3 +43,5 @@
 **Day 21:** Method Overloading
 
 **Day 22:** Method Overriding
+
+**Day 23:** Practice Problem from HackerRank
