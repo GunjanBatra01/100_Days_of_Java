@@ -47,3 +47,5 @@
 **Day 23:** Practice Problem from HackerRank
 
 **Day 24:** Practice Problem from HackerRank
+
+**Day 25:** Practice Problem from HackerRank
