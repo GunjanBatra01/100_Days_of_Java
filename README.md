@@ -45,3 +45,5 @@
 **Day 22:** Method Overriding
 
 **Day 23:** Practice Problem from HackerRank
+
+**Day 24:** Practice Problem from HackerRank
