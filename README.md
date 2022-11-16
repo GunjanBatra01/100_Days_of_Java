@@ -51,3 +51,9 @@
 **Day 25:** Practice Problem from HackerRank
 
 **Day 26:** Practice Problem from HackerRank
+
+**Day 27:** Practice Problem from HackerRank
+
+**Day 28:** Static Initializer Block
+
+**Day 29:** Int to String
