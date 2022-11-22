@@ -57,3 +57,7 @@
 **Day 28:** Static Initializer Block
 
 **Day 29:** Int to String
+
+**Day 30:** Check if string is Palindrome or not
+
+**Day 31:** Convert lowercase to uppercase and vice-versa.
