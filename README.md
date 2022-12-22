@@ -61,3 +61,11 @@
 **Day 30:** Check if string is Palindrome or not
 
 **Day 31:** Convert lowercase to uppercase and vice-versa.
+
+**Day 32:** Reverse each word of the String.
+
+**Day 33:** Display Armstrong numbers from 0 to 1000.
+
+**Day 34:** Implementation through Abstract Classes.
+
+**Day 35:** Implementation of Interfaces in Java.
