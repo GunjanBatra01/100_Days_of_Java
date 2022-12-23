@@ -69,3 +69,5 @@
 **Day 34:** Implementation through Abstract Classes.
 
 **Day 35:** Implementation of Interfaces in Java.
+
+**Day 36:** Packages in Java.
