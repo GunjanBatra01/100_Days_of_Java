@@ -73,3 +73,5 @@
 **Day 36:** Packages in Java.
 
 **Day 37:** Three functions of String - charAt(), compareTo(), and concat().
+
+**Day 38:** Three methods of String - contains(), endsWith(), and equals().
