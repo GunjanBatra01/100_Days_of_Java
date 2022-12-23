@@ -71,3 +71,5 @@
 **Day 35:** Implementation of Interfaces in Java.
 
 **Day 36:** Packages in Java.
+
+**Day 37:** Three functions of String - charAt(), compareTo(), and concat().
