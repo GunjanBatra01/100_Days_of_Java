@@ -75,3 +75,7 @@
 **Day 37:** Three functions of String - charAt(), compareTo(), and concat().
 
 **Day 38:** Three methods of String - contains(), endsWith(), and equals().
+
+**Day 39:** Series: 1, 4, 9, 16, 25, ...
+
+**Day 40:** Series: 6, 11, 21, 36, 56, ...
