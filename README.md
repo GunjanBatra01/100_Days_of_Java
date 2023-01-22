@@ -79,3 +79,7 @@
 **Day 39:** Series: 1, 4, 9, 16, 25, ...
 
 **Day 40:** Series: 6, 11, 21, 36, 56, ...
+
+**Day 41:** Real Life Problem
+
+**Day 42:** Real Life Problem
