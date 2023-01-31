@@ -93,3 +93,15 @@
 **Day 46:** Real Life Problem
 
 **Day 47:** Real Life Problem - Pattern
+
+**Day 48:** Real Life Problem
+
+**Day 49:** Real Life Problem
+
+**Day 50:** Real Life Problem
+
+**Day 51:** Real Life Problem - Triangle Formation
+
+**Day 52:** Real Life Problem - Type of Triangle
+
+**Day 53:** Sum of Series: [9 + 99 + 999 + 9999 + ...]
