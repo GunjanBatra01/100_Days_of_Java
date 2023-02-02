@@ -109,3 +109,7 @@
 **Day 54:** Real Life Problem - Month with number of days
 
 **Day 55:** Year is leap year or not
+
+**Day 56:** Real Life Problem
+
+**Day 57:** Strong Number
