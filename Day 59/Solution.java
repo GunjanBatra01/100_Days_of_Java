@@ -23,7 +23,7 @@ class Solution{
     
     void display(){
         System.out.println(this.name+" "+this.day+" Temperature: "+this.temp+"°");
-    }
+    }//
     
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
