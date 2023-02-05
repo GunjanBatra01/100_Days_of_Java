@@ -115,3 +115,9 @@
 **Day 57:** Strong Number
 
 **Day 58:** Real Life Problem
+
+**Day 59:** Real Life Problem
+
+**Day 60:** Real Life Problem
+
+**Day 61:** Real Life Problem
