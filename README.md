@@ -121,3 +121,21 @@
 **Day 60:** Real Life Problem
 
 **Day 61:** Real Life Problem
+
+**Day 62:** Real Life Problem
+
+**Day 63:** Real Life Problem
+
+**Day 64:** Valid Identifier
+
+**Day 65:** Validation of Mobile Number
+
+**Day 66:** Real Life Problem
+
+**Day 67:** Real Life Problem
+
+**Day 68:** Real Life Problem
+
+**Day 69:** Real Life Problem
+
+**Day 70:** Real Life Problem
