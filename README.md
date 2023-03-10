@@ -139,3 +139,5 @@
 **Day 69:** Real Life Problem
 
 **Day 70:** Real Life Problem
+
+**Day 71:** Real Life Problem
