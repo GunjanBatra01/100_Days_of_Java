@@ -141,3 +141,7 @@
 **Day 70:** Real Life Problem
 
 **Day 71:** Real Life Problem
+
+**Day 72:** Remove Consecutive Vowels
+
+**Day 73:** Build Array from Permutation
