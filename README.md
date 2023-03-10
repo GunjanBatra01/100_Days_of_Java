@@ -145,3 +145,5 @@
 **Day 72:** Remove Consecutive Vowels
 
 **Day 73:** Build Array from Permutation
+
+**Day 74:** Concatenation of Array
